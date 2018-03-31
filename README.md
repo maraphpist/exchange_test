@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -75,3 +76,7 @@ Enjoy!
 [13]: https://symfony.com/doc/current/bundles/SensioGeneratorBundle/index.html
 [14]: https://symfony.com/doc/current/setup/built_in_web_server.html
 [15]: https://symfony.com/doc/current/setup.html
+=======
+# exchange_test
+The Symfony3 project fertilized with some bundles. Made just for fun and educational purposes only.
+>>>>>>> 044450e2695d7911ee221296b4ebc69a149efeca
